@@ -1,0 +1,39 @@
+.container {
+  display: flex;
+  align-items: stretch;
+  width: 200%;
+}
+
+.content {
+  background: white;
+  width: 750rpx;
+  padding: 24rpx;
+  box-sizing: border-box;
+  border-bottom: 1rpx solid #E6E6E6;
+}
+
+.text-title {
+  font-size: 32rpx;
+  color: deepskyblue;
+}
+
+.text-detail {
+  font-size: 28rpx;
+  color: darkgray;
+  margin-top: 20rpx;
+}
+
+.menu-button {
+  font-size: 32rpx;
+  color: white;
+  width: 140rpx;
+  text-align: center;
+  align-items: center;
+  display: flex;
+}
+
+.menu-title {
+  width: 100%;
+}
+
+
